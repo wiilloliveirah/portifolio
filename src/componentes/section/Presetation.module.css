@@ -1,0 +1,16 @@
+.presetation {
+    text-align: center ;
+    margin: 5%;
+}
+
+.presetation h1{
+    font-size: 55px;
+}
+
+.presetation h4 {
+    font-size: 25px;
+}
+
+.presetation p {
+    font-size: 20px;
+}
