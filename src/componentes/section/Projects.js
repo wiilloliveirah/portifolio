@@ -21,8 +21,8 @@ function Projects(){
                 title="My Portifolio"
                 tech="React"
                 descrition="Development of this page"
-                repo="https://github.com/wiilloliveirah/ProjetoLP"
-                site="https://vermillion-paprenjak-e9e73e.netlify.app"
+                repo="https://github.com/wiilloliveirah/portifolio"
+                site="https://portifolio-omega-ten.vercel.app"
             />
             <ButtonB text='Access my repository' link='https://github.com/wiilloliveirah?tab=repositorieshttps://github.com/wiilloliveirah?tab=repositories'/>
         </div>
