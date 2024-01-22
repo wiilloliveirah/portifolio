@@ -18,12 +18,14 @@
 .skill img {
     height: 145px;
     margin: 55px;
+    transition-duration: 0.5s;
 
 }
 
 .skill img:hover {
     transform: translateY(-12px);
-    transition-duration: 0.3s;
+    transition-duration: 0.5s;
     border: #FFFFFF solid;
-    border-radius: 18px;
+    border-radius: 26px;
+    height: 170px;
 }
